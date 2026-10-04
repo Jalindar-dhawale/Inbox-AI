@@ -1,0 +1,56 @@
+[
+  {
+    "sender": "Priya Sharma <priya@northstar.co>",
+    "subject": "Proposal approval needed by 4 PM",
+    "category": "Important",
+    "priority": "High",
+    "sentiment": "Neutral",
+    "summary": "The Northstar proposal needs final approval before today's 4 PM submission deadline.",
+    "received_at": "Today, 09:42 AM"
+  },
+  {
+    "sender": "Rahul Mehta <rahul@talentbridge.in>",
+    "subject": "Three shortlisted candidates for AI Engineer",
+    "category": "Recruitment",
+    "priority": "Medium",
+    "sentiment": "Positive",
+    "summary": "Three candidates passed the screening stage and are ready for technical interviews.",
+    "received_at": "Today, 09:18 AM"
+  },
+  {
+    "sender": "CloudDesk Billing <billing@clouddesk.io>",
+    "subject": "Invoice CD-2938 generated",
+    "category": "Finance",
+    "priority": "Medium",
+    "sentiment": "Neutral",
+    "summary": "A monthly cloud services invoice of ₹8,450 is available and due on 20 September.",
+    "received_at": "Today, 08:55 AM"
+  },
+  {
+    "sender": "Ananya Rao <ananya@acmeconsulting.com>",
+    "subject": "Client meeting moved to Thursday",
+    "category": "Important",
+    "priority": "High",
+    "sentiment": "Neutral",
+    "summary": "The quarterly review meeting has moved to Thursday at 11 AM; the agenda is unchanged.",
+    "received_at": "Today, 08:31 AM"
+  },
+  {
+    "sender": "Product Weekly <digest@productweekly.com>",
+    "subject": "Five AI workflow ideas for operations teams",
+    "category": "Newsletter",
+    "priority": "Low",
+    "sentiment": "Positive",
+    "summary": "This week's newsletter covers practical AI workflow patterns for operations teams.",
+    "received_at": "Today, 07:45 AM"
+  },
+  {
+    "sender": "Rewards Center <offers@reward-center.example>",
+    "subject": "You have been selected for a special prize",
+    "category": "Spam",
+    "priority": "Low",
+    "sentiment": "Suspicious",
+    "summary": "Unverified promotional message requesting a link click; no action recommended.",
+    "received_at": "Today, 06:12 AM"
+  }
+]
